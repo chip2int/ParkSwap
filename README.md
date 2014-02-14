@@ -71,7 +71,7 @@ Version
 Deployment
 ----------
 
-[park-swap.herokuapp.com](http://park-swap.herokuapp.com/)
+[parkswap.co](http://parkswap.co/)
 
 
 Credits
